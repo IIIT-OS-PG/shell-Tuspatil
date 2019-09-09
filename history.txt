@@ -1,0 +1,76 @@
+ls
+ls -l
+alias tushar=ls
+tushar
+open tushar.MP4
+$$
+$?
+ls|grep tu|grep .MP4
+clear
+$$
+$$
+$?
+
+ls |grep tu|grep .MP4
+$$
+$?
+ls abcdefghijklmnop
+$?
+clear
+alias sangam=cat
+sangam finalshell.cpp
+$?
+alias tus=ls
+tus
+alias sang=history.txt
+cat sang
+clear
+ls
+ls -l
+clear
+la -l -al
+ls -l -al
+clear
+alias tu=ls
+tu -l
+tu -al
+tu
+clear
+ls
+ls|grep t|grep b|grep h
+clear
+open tushar.mp4
+open tushar.MP4
+clear
+$$
+clear
+ls
+ls>aa.txt
+cat aa.txt
+clear
+la -l>>aa.txt
+
+ls -l>>aa.txt
+cat aa.txt
+clear
+cat aa.txt
+cat aa.txt|grep -o bash>abc.txt
+cat abc.txt
+clear
+ls jatin
+$?
+jati
+$?
+ls
+$?
+clear
+ls
+clea
+clear
+clear
+ls
+ls -l
+alias tu=ls -l
+tu
+\clear
+clear

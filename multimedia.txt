@@ -1,0 +1,7 @@
+MP4=/usr/bin/vlc
+pdf=/usr/bin/libreoffice
+jpeg=/usr/bin/eog
+jpg=/usr/bin/eog
+png=/usr/bin/eog
+txt=/usr/bin/libreoffice
+
